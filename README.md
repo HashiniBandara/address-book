@@ -72,3 +72,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## run-> php artisan db:seed
+
+## .env file db details 
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=addressbook
+DB_USERNAME=root
+DB_PASSWORD=
